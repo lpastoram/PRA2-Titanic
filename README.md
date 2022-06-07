@@ -19,3 +19,10 @@ El conjunto de entrenamiento se compone de los siguientes campos:
  * **sibsp:** Factor ordenado especificando el número de hermanos/cónyuges a bordo; adoptado del conjunto de datos de Vanderbild.
  * **parch:** Factor ordenado que especifica el número de padres/hijos a bordo; adoptado del conjunto de datos de Vanderbild.
  * **survived:** Factor con dos niveles (no y sí) que especifica si la persona ha sobrevivido al hundimiento.
+
+Las carpetas contienen lo siguiente:
+
+    pdf: Contiene un informe donde se explica el desarrollo del trabajo realizado.
+    dataset: Contiene los archivos que contienen los datos prelimpieza y postlimpieza.
+    code: Contiene código creado en R y RMarkdown que limpia y analiza de los datos en cuestión.
+
