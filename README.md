@@ -22,7 +22,7 @@ El conjunto de entrenamiento se compone de los siguientes campos:
 
 Las carpetas contienen lo siguiente:
 
-    pdf: Contiene un informe donde se explica el desarrollo del trabajo realizado.
-    dataset: Contiene los archivos que contienen los datos prelimpieza y postlimpieza.
-    code: Contiene código creado en R y RMarkdown que limpia y analiza de los datos en cuestión.
+ * pdf: Contiene un informe donde se explica el desarrollo del trabajo realizado.
+ * dataset: Contiene los archivos que contienen los datos prelimpieza y postlimpieza.
+ * code: Contiene código creado en R y RMarkdown que limpia y analiza de los datos en cuestión.
 
